@@ -1,0 +1,13 @@
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.exe.config
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.exe
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\Adventure.pdb
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.Common.dll
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.OrmLite.dll
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.Text.dll
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.Common.xml
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\bin\Debug\ServiceStack.Text.xml
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.exe
+c:\users\mahmoud-pc\documents\visual studio 2013\Projects\Adventure\Adventure\obj\Debug\Adventure.pdb
